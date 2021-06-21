@@ -1,0 +1,6 @@
+name: lGenerators
+version: ${project.version}
+main: cz.larkyy.lgenerators.LGenerators
+depend:
+  - Vault
+api-version: 1.16
